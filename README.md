@@ -13,13 +13,14 @@
 
 ## Tópicos 
 
-[Sobre o dt money](#sobre-o-dt-money)
+<p>
+<a href="#sobre-o-dt-money">Sobre</a> |
+<a href="#tecnologias>Tecnologias</a> |
+<a href="#link">Link</a> |
+<a href="#desenvolvedores">Desenvolvedores</a> |
+</p>
 
-[Tecnologias](#tecnologias)
 
-[Instalação e uso](#instalação-e-uso)
-
-[Licença](#licença)
 
 <br>
 
