@@ -76,7 +76,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-
+<h2 id="desenvolvedores">👨‍💻 Desenvolvedores</h2>
 <table>
   <td><a href="https://github.com/gabriel-suela"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/96388423?v=4" width="100px;" alt="Imagem profile Gabriel Suela desenvolvedor"/><br /><sub><b> Gabriel Suela </b></sub></a><br /> 
     </table>
