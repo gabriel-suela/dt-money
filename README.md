@@ -1,10 +1,10 @@
 # dt money
 
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=33CC95&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=33CC95&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=6933ff&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=6933ff&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-33CC95?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-5429CC?style=flat-square">
   </a>
   
 </p>
@@ -67,7 +67,7 @@ yarn start
 
 ## Licença
 <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-5429CC?style=flat-square">
 </a>
 
 <br>
@@ -82,4 +82,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
     </table>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-gscsuela@gmail.com-33CC95?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:gscsuela@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gscsuela@gmail.com-6933ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:gscsuela@gmail.com)
