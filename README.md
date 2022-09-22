@@ -15,9 +15,9 @@
 
 <p>
 <a href="#sobre-o-dt-money">Sobre</a> |
-<a href="#tecnologias>Tecnologias</a> |
+<a href="#tecnologias">Tecnologias</a> |
 <a href="#link">Link</a> |
-<a href="#desenvolvedores">Desenvolvedores</a> |
+<a href="#desenvolvedores">Desenvolvedores</a>
 </p>
 
 
