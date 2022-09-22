@@ -9,7 +9,7 @@
   
 </p>
 
-<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
+<img align="right" src="src/assets/Logo.svg" width="35%" alt="dt money">
 
 ## Tópicos 
 
